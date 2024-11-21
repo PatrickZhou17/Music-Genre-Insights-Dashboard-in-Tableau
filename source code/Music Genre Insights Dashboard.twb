@@ -1822,7 +1822,7 @@
             <run bold='true' fontsize='11'>by Patrick Zhou</run>
           </formatted-text>
         </zone>
-        <zone h='10583' id='5' is-scaled='1' param='C:/Users/Patri/OneDrive/Desktop/2024 fall/others/tableau workshop/UofT_Tableau_Training_Workbook.twb Files/Users/buseb/Documents/My Tableau Repository/Shapes/Spotify - Music Symbols/icon - spotify-logo.png' type-v2='bitmap' w='9200' x='600' y='667' />
+        <zone h='10583' id='5' is-scaled='1' param='spotify-logo.png' type-v2='bitmap' w='9200' x='600' y='667' />
         <zone h='67500' id='9' name='Avg. Song Popularity' w='38300' x='400' y='12917' />
         <zone h='20000' id='10' name='Tracks' w='27200' x='42300' y='22500' />
         <zone h='20000' id='22' name='Artists' w='27700' x='70400' y='22750' />
@@ -1846,7 +1846,7 @@
           <zones>
             <zone h='100000' id='57' type-v2='layout-basic' w='100000' x='0' y='0'>
               <zone h='98666' id='56' param='vert' type-v2='layout-flow' w='98400' x='800' y='667'>
-                <zone fixed-size='127' h='10583' id='5' is-fixed='true' is-scaled='1' param='C:/Users/Patri/OneDrive/Desktop/2024 fall/others/tableau workshop/UofT_Tableau_Training_Workbook.twb Files/Users/buseb/Documents/My Tableau Repository/Shapes/Spotify - Music Symbols/icon - spotify-logo.png' type-v2='bitmap' w='9200' x='600' y='667'>
+                <zone fixed-size='127' h='10583' id='5' is-fixed='true' is-scaled='1' param='spotify-logo.png' type-v2='bitmap' w='9200' x='600' y='667'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
